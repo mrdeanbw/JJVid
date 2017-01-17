@@ -1,0 +1,711 @@
+[11-Jan-2017 21:43:17 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[11-Jan-2017 21:43:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[11-Jan-2017 21:43:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[11-Jan-2017 21:43:17 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[11-Jan-2017 21:43:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[11-Jan-2017 21:43:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[11-Jan-2017 21:43:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[11-Jan-2017 21:43:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[12-Jan-2017 07:58:01 America/New_York] PHP Parse error:  syntax error, unexpected 'vs_form' (T_STRING) in /home/jvids/public_html/v2/testtable.php on line 52
+[12-Jan-2017 07:58:19 America/New_York] PHP Warning:  include(&lt;---path to MySql connection file---&gt;): failed to open stream: No such file or directory in /home/jvids/public_html/v2/testtable.php on line 2
+[12-Jan-2017 07:58:19 America/New_York] PHP Warning:  include(): Failed opening '&lt;---path to MySql connection file---&gt;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jvids/public_html/v2/testtable.php on line 2
+[13-Jan-2017 09:41:39 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[13-Jan-2017 09:41:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[13-Jan-2017 09:41:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[13-Jan-2017 09:41:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[13-Jan-2017 09:41:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[13-Jan-2017 09:41:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[13-Jan-2017 09:41:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[13-Jan-2017 09:41:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[13-Jan-2017 09:50:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[13-Jan-2017 09:50:40 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[13-Jan-2017 10:09:04 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[13-Jan-2017 10:09:04 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[13-Jan-2017 10:09:04 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[13-Jan-2017 10:09:04 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 04:46:58 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 04:46:58 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 04:46:58 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 04:46:58 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 04:48:41 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 04:48:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 04:48:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 04:48:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 04:49:01 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 04:49:01 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 04:49:01 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 04:49:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 04:59:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 04:59:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 04:59:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 10:01:42 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 10:01:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 10:01:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 10:01:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 10:41:25 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 10:41:25 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 10:41:25 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 10:41:25 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 10:41:25 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 154
+[14-Jan-2017 10:41:26 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 10:41:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 10:41:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 10:41:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 10:41:26 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 154
+[14-Jan-2017 10:44:42 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 10:44:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 10:44:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 10:44:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 10:45:48 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 10:45:48 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 10:45:48 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 10:45:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[14-Jan-2017 11:15:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[14-Jan-2017 11:15:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[14-Jan-2017 11:15:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[14-Jan-2017 11:15:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 04:53:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 04:53:20 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 04:53:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: sender_name in /home/jvids/public_html/v2/model.php on line 112
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: sender_name in /home/jvids/public_html/v2/model.php on line 112
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: viewed in /home/jvids/public_html/v2/html/reports.php on line 67
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: video_started in /home/jvids/public_html/v2/html/reports.php on line 68
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: answer in /home/jvids/public_html/v2/html/reports.php on line 71
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: preposition_answer in /home/jvids/public_html/v2/html/reports.php on line 73
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: comments in /home/jvids/public_html/v2/html/reports.php on line 77
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: preposition_comments in /home/jvids/public_html/v2/html/reports.php on line 79
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: preposition_answer in /home/jvids/public_html/v2/html/reports.php on line 73
+[16-Jan-2017 04:53:23 America/New_York] PHP Notice:  Undefined index: preposition_comments in /home/jvids/public_html/v2/html/reports.php on line 79
+[16-Jan-2017 06:13:52 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 06:13:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 06:13:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 06:13:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 08:04:55 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 08:04:55 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 08:04:55 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 08:04:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 08:04:55 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 154
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 08:05:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 08:05:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 08:05:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 08:05:37 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 08:05:37 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 08:05:37 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 08:05:37 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 08:06:08 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 08:06:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 08:06:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 08:06:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 09:57:07 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 09:57:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 09:57:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 09:57:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 09:57:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 09:57:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 09:57:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 09:57:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:21:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:21:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:21:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:21:56 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:21:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:21:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:21:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:22:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:22:36 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[16-Jan-2017 15:22:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:22:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:22:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:22:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:22:40 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:22:40 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:22:41 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:22:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:22:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:22:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:22:43 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:22:43 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:22:43 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:22:43 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:23:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:23:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:23:08 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:23:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:23:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:23:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:23:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:23:27 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:23:27 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:23:28 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:23:28 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:23:28 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:23:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:23:30 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:23:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:23:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:23:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:24:59 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:24:59 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:24:59 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:24:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:24:59 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:24:59 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:25:00 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:25:00 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:25:00 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:25:00 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:25:02 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:25:02 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:25:02 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:25:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:26:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[16-Jan-2017 15:26:05 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[16-Jan-2017 15:26:10 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:26:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:26:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:26:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:26:10 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:26:10 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 43
+[16-Jan-2017 15:26:11 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:26:11 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:26:11 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:26:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:26:13 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:26:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:26:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:26:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:52:20 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:52:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:52:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:52:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:53:19 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:53:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:53:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:53:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:53:19 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 15:53:19 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 47
+[16-Jan-2017 15:53:20 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:53:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:53:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:53:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 15:53:23 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 15:53:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 15:53:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 15:53:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:45:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 44
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:45:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:45:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:45:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 44
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:45:39 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:45:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:45:41 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:45:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:45:41 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:45:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:47:23 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:47:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:47:23 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:47:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:47:23 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 16:47:23 America/New_York] PHP Notice:  Undefined index: vs_form_set_id in /home/jvids/public_html/v2/html/survey.php on line 44
+[16-Jan-2017 16:47:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:47:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:47:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:47:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:47:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:47:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:47:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:47:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:49:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:49:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:49:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:49:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:49:27 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 16:49:28 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:49:28 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:49:28 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:49:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 16:49:31 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 16:49:31 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 16:49:31 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 16:49:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:00:05 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:00:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:00:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:00:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:00:05 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:00:06 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:00:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:00:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:00:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:00:09 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:00:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:00:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:00:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:08:17 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:08:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:08:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:08:17 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:08:17 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:08:18 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:08:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:08:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:08:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:08:27 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:08:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:08:27 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:08:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:11:52 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:11:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:11:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:11:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:11:52 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:11:53 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:11:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:11:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:11:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:11:59 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:11:59 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:11:59 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:11:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:12:13 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:12:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:12:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:12:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:12:13 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:12:14 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:12:14 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:12:14 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:12:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:12:16 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:12:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:12:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:12:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:14:18 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:14:18 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:14:18 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:14:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:14:18 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:14:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:14:19 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:14:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:14:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:14:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:34:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:34:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:34:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:34:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:34:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:34:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:34:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:34:24 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:34:25 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:34:25 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:34:25 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:34:25 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:34:26 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:34:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:34:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:34:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:36:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:36:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:36:24 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 191
+[16-Jan-2017 17:36:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:36:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:36:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 17:36:26 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 17:36:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 17:36:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 17:36:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[16-Jan-2017 18:01:08 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[16-Jan-2017 18:01:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[16-Jan-2017 18:01:08 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[16-Jan-2017 18:01:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:56:09 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:56:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:56:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:56:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:56:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:56:13 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:57:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 06:57:26 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:58:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:58:30 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:58:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:58:34 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:58:34 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:58:34 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:58:34 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:58:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 06:58:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Undefined index: form_title in /home/jvids/public_html/v2/html/prepostion.php on line 24
+[17-Jan-2017 06:58:44 America/New_York] PHP Notice:  Undefined index: vs_form_id in /home/jvids/public_html/v2/html/prepostion.php on line 31
+[17-Jan-2017 07:02:44 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:02:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:02:44 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:02:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:02:44 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:02:45 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:02:45 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:02:45 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:02:45 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:02:49 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:02:49 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:02:49 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:02:49 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:02:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:02:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:02:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:08:12 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:08:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:08:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:08:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:08:12 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:08:13 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:08:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:08:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:08:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:08:17 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:08:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:08:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:08:17 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:08:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:08:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:08:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:06 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:06 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:15:07 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:11 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:11 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:11 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:15:40 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:15:48 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:15:48 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:15:48 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:15:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:21:42 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:21:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:21:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:21:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:21:42 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:21:45 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:21:45 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:21:45 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:21:45 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:22:20 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:22:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:22:20 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:22:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:22:20 America/New_York] PHP Notice:  Undefined index: debug in /home/jvids/public_html/v2/index.php on line 58
+[17-Jan-2017 07:22:21 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:22:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:22:21 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:22:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:26:00 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:26:00 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:26:00 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:26:00 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:26:00 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:26:02 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:26:02 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:26:02 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:26:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:26:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:26:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:26:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:27:19 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:27:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:27:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:27:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:30:05 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:30:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:30:05 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:30:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:30:05 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:30:07 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:30:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:30:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:30:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:30:40 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:30:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:30:40 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:30:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 07:30:40 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 07:30:42 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 07:30:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 07:30:42 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 07:30:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:32 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:32 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:32 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:32 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:32 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:32 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:32 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:32 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 08:06:33 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:33 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:33 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:36 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:36 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:36 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:47 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Undefined variable: quiz_id in /home/jvids/public_html/v2/html/home.php on line 99
+[17-Jan-2017 08:06:47 America/New_York] PHP Notice:  Undefined variable: video_id in /home/jvids/public_html/v2/html/send-mail-popup.php on line 16
+[17-Jan-2017 08:06:53 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:53 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:53 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:53 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 08:06:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:53 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 08:06:54 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:54 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 08:06:56 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 08:06:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 08:06:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 08:06:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:16 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:16 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:16 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:16 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:17 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 10:18:17 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:17 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:17 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:19 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:19 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:22 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:22 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:22 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/jvids/public_html/v2/index.php on line 193
+[17-Jan-2017 10:18:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:22 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 10:18:24 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 10:18:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 10:18:24 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 10:18:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 13:15:12 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 13:15:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 13:15:12 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 13:15:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 13:15:12 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 13:15:13 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 13:15:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 13:15:13 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 13:15:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 13:15:16 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 13:15:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 13:15:16 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 13:15:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:00:06 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:00:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:00:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:00:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:00:06 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 14:00:07 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:00:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:00:07 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:00:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:00:10 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:00:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:00:10 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:00:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:01:52 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:01:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:01:52 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:01:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:01:52 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 14:01:53 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:01:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:01:53 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:01:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:01:56 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:01:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:01:56 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:01:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:05:04 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:05:04 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:05:04 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:05:04 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:05:04 America/New_York] PHP Notice:  Undefined offset: 0 in /home/jvids/public_html/v2/model.php on line 160
+[17-Jan-2017 14:05:06 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:05:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:05:06 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:05:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7
+[17-Jan-2017 14:05:09 America/New_York] PHP Notice:  Use of undefined constant ADMIN_PASSWORD - assumed 'ADMIN_PASSWORD' in /home/jvids/public_html/v2/index.php on line 7
+[17-Jan-2017 14:05:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_SUBJECT - assumed 'EMAIL_SUBJECT' in /home/jvids/public_html/v2/index.php on line 8
+[17-Jan-2017 14:05:09 America/New_York] PHP Notice:  Use of undefined constant EMAIL_MESSAGE - assumed 'EMAIL_MESSAGE' in /home/jvids/public_html/v2/index.php on line 17
+[17-Jan-2017 14:05:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jvids/public_html/v2/db.php on line 7

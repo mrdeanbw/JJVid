@@ -1,0 +1,281 @@
+<?php include_once($dir.'html/header.php'); ?>
+    <div class="container">
+      <!-- Main component for a primary marketing message or call to action -->
+	  <div class = "row page-border" >
+		<div class = "videoWrapper">
+		    <div id="player"></div>
+		</div>
+		<div class = "product" ><?php echo $surveyData[0]['title']; ?></div>
+		<div class="row form-content">
+			<form role="form" id = "questionFrm" method = "POST" >
+			<input type = "hidden" name = "link_id" value = "<?php echo $link[1]; ?>" />
+            <input type="hidden" name="sid" value="<?php echo $_GET['sid'] ;?>" >
+			<input type = "hidden" name = "action" value = "survey-submit" />
+			<div class="col-md-6 form-content">
+					<div class="form-group form-backcolor">
+						<?php foreach($surveyData as $indx => $surveyD){ ?>
+						<div class="radio ">
+							<label ><input type="radio" name="answer" <?php echo $indx === 0 ? 'checked' : ''; ?> value = "<?php echo $surveyD['label']; ?>" ><?php echo $surveyD['label']; ?></label>
+						</div>
+						<?php } ?>
+					</div>
+					<div class="form-group form-submit-backcolor"><input type = "submit" id = "question_submit" value = "Valider" /></div>
+
+			</div>
+			<div class="col-md-6">
+				<div class="form-group tpadding">
+					<div class = "comment-label">Commentaires:</div>
+					<textarea   class = "form-control"  name = "comments" ></textarea>
+				</div>
+			</div>
+			</form>
+		</div><!--- row -->
+	 </div><!-- main-row-->
+    </div> <!-- /container -->
+	<?php include_once($dir.'html/footer.php'); ?>
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          videoId: "<?php echo $video_id; ?>",
+		 playerVars: {
+                    autoplay: 1,
+                    showinfo: 0,
+                    rel:0
+		  },
+		  /*width : '1168',
+		  height : '441',*/
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        //event.target.playVideo();
+      }
+
+	function onPlayerStateChange(event) {
+		var stateCode = event.data;
+		switch (stateCode) {
+			case YT.PlayerState.UNSTARTED:
+				console.log('unstarted');
+				break;
+			case YT.PlayerState.ENDED:
+				console.log('ended');
+				break;
+			case YT.PlayerState.PLAYING:
+				console.log('playing');
+				<?php if(empty($_GET['preview'])){ ?>
+				updateWatchStatus();
+				<?php } ?>
+				break;
+			case YT.PlayerState.PAUSED:
+				console.log('paused');
+				break;
+			case YT.PlayerState.BUFFERING:
+				console.log('buffering');
+				break;
+			case YT.PlayerState.CUED:
+				console.log('cued');
+				break;
+			default:
+				console.log('unkonwn state');
+		}
+	}//end  function
+
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
+
+	<script>
+	$(document).ready(function(){
+		<?php if(empty($_GET['preview'])){ ?>
+		$.ajax({
+			url: "index.php",
+			type: "post",
+			dataType: "json",
+			cache: false,
+			data: {action : 'survey-viewed', link_id : '<?php echo $link[1]; ?>'},
+			beforeSend: function(){
+				
+			},
+			success: function(response){
+				console.log(response.msg);
+			},
+			error: function(xhr) { // if error occured
+				console.log('Error : ' + xhr.statusText);
+				//alert('Error : ' + xhr.statusText )
+			},
+			complete: function(response){
+			}
+		});
+		<?php } ?>
+	 });
+
+	 function updateWatchStatus(){
+		$.ajax({
+			url: "index.php",
+			type: "post",
+			dataType: "json",
+			cache: false,
+			data: {action : 'survey-watched', link_id : '<?php echo $link[1]; ?>'},
+			beforeSend: function(){
+				
+			},
+			success: function(response){
+				console.log(response.msg);
+			},
+			error: function(xhr) { // if error occured
+				console.log('Error : ' + xhr.statusText);
+				//alert('Error : ' + xhr.statusText )
+			},
+			complete: function(response){
+			}
+		});
+	 }
+
+     function getPrepositions(quesid ,sid){
+		$.ajax({
+			url: "index.php",
+			type: "post",
+			dataType: "json",
+			cache: false,
+			data: {action : 'survey-getprepositions', qusid : quesid , sid : sid},
+			beforeSend: function(){
+				
+			},
+			success: function(response){
+				//console.log(response.prepostions);
+				
+				if (response.prepostions.length>5){
+					$('.page-border').html('<div class="alert alert-success">(Cocher les cases qui vous correspondent)</div>' );
+					$('div.page-border').css({'border':'none'});
+						
+				
+					$('.page-border').append('<div class="prpostionval">'+response.prepostions+'</div>');
+				}else{
+					$('.page-border').html('<div class="alert alert-success">Je vous remercie de votre opinion.</div>' );
+					$('div.page-border').css({'border':'none'});
+				}
+				//$('.page-border').append('<div class="prpostionval">'+response.prepostions+'</div>');
+				//$('.page-border').html('<div class="alert alert-success">Je vous remercie de votre opinion.</div>' + );
+				//$('div.page-border').css({'border':'none'});
+				
+			},
+			error: function(xhr) { // if error occured
+				console.log('Error : ' + xhr.statusText);
+				//alert('Error : ' + xhr.statusText )
+			},
+			complete: function(response){
+			}
+		});
+	 }
+
+	$("#questionFrm").on("submit", function(){
+		<?php if(!empty($_GET['preview'])){ ?>
+			return false;
+		<?php } ?>
+
+		//Code: Action (like ajax...)
+		$.ajax({
+			url: "index.php",
+			type: "post",
+			cache: false,
+			data: $('#questionFrm').serialize(),
+			beforeSend: function(){
+				
+			},
+			success: function(response){
+				
+				//console.log(response);
+			    var data = $.parseJSON(response)
+				
+				//alert(data.qusid);
+				$('.page-border').html('<div class="alert alert-success">Je vous remercie de votre opinion.</div>' );
+				$('div.page-border').css({'border':'none'});
+				//window.location = "?a=s&sid="+response.sid+"&Qusid="+response.Qusid;
+				getPrepositions(data.qusid,data.sid);
+				
+			},
+			error: function(xhr) { // if error occured
+				console.log('Error : ' + xhr.statusText);
+				//alert('Error : ' + xhr.statusText )
+			},
+			complete: function(response){
+				//alert(response);
+				// window.location = "html/prepostion.php?id"+response;
+			}
+		});
+		return false;
+	 });
+	 
+	 
+	 
+function prepositionSubmit(){
+	
+		if($('input[type=checkbox]:checked').length == 0)
+		{
+			alert('Please select atleast one checkbox');
+			return false;
+		}
+		
+		//var formData = $('#prepostionFrm').serializeArray();
+		
+		var str=$('#prepostionFrm input:not([type="checkbox"])').serialize();
+		var str1=$("#prepostionFrm input[type='checkbox']:checked").map(function(){return this.name+"="+this.value;}).get().join("&");
+		if(str1!="" && str!="") str+="&"+str1;
+		else str+=str1; 
+		
+		var txtCmt = $('#comments').val();
+	   	
+		var formData = str + '&comments=' + txtCmt;
+
+		$.ajax({
+			url: "index.php",
+			type: "GET",
+			cache: false,
+			data: formData,
+			beforeSend: function(){
+				
+			},
+			success: function(response){
+				
+				console.log(response);
+			    var data = $.parseJSON(response)
+				
+				//alert(data.qusid);
+				$('.page-border').html('<div class="alert alert-success">Je vous remercie de votre opinion.</div>' );
+				$('div.page-border').css({'border':'none'});
+				//window.location = "?a=s&sid="+response.sid+"&Qusid="+response.Qusid;
+				//getPrepositions(data.qusid,data.sid);
+				
+			},
+			error: function(xhr) { // if error occured
+				console.log('Error : ' + xhr.statusText);
+				//alert('Error : ' + xhr.statusText )
+			},
+			complete: function(response){
+				//alert(response);
+				// window.location = "html/prepostion.php?id"+response;
+			}
+		});
+		return false;
+}
+	 
+	</script>
+
+  </body>
+</html>

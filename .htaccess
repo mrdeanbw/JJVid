@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+RewriteEngine On
+ 
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+
+RewriteRule ^([a-zA-Z0-9\-]+)$ index.php?$1
+RewriteRule ^([a-zA-Z0-9\-]+)/$ index.php?$1

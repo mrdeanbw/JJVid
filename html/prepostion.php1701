@@ -1,0 +1,23 @@
+<?php if(!empty($result['prepositions'])){?>
+<div class="product"><?php echo $result['title'];?></div>
+<div class="row form-content">
+<form role="form" id="prepostionFrm" method="POST" onSubmit="return prepositionSubmit();" >
+<input type="hidden" name="action" value="setprepostion" >
+<input type="hidden" name="sid" value="<?php echo $sid ;?>" >
+<input type="hidden" name="qusid" value="<?php echo $qusid ;?>" >
+<?php	foreach($result['prepositions'] as $indx => $pre){ ?>
+<div class="radio ">
+		<label><input type="checkbox" name="prepostions[<?php echo $pre['vs_fu_actions_id']; ?>]" id="prepostions_<?php echo $pre['vs_fu_actions_id']; ?>" value="<?php echo $pre['vs_fu_actions_id']; ?>" />&nbsp; <?php echo $pre['label']; ?></label>
+</div>
+<?php } ?>
+<div class="form-group form-submit-backcolor"><input type = "submit" id = "prpostion_submit" value = "Valider" /></div>
+<div class="form-group tpadding">
+    <div class="comment-label">Commentaires:</div>
+    <textarea class="form-control" name="comments" id="comments"></textarea>
+</div>
+
+</form>
+</div>
+<?php } ?>
+
+
